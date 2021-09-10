@@ -1,0 +1,108 @@
+body{
+    height: 200vh;
+    width: 200vh;
+    background-color: #E5E5E5;
+    
+}
+#container2{
+    background-color: white;
+    height: 1626px;
+    width: 1152px;
+    left: -400px;
+    top: -2829px;
+    border-radius: 0px;
+
+}
+.hi{
+    margin: 5% 10%;
+    padding-top: 60px;
+    text-align: center;
+}
+.who{
+    height: 35px;
+    width: 174px;
+    padding: 5% 30%;
+    
+    border-width: 5px;
+    
+}
+.image-section{
+    display: flex;
+    margin: 10%;
+    padding-bottom: 45%;
+      
+}
+.image-section .img{
+    height: 600px;
+    width: 422px;
+    left: 92px;
+    padding-bottom: 25px;
+    border-radius: 0px;
+}
+.image-section .write{
+    height: 168px;
+    width: 513px;
+    left: 551px;
+    top: 301px;
+    padding-left: 30px;
+    padding-top: 50px;
+
+}
+.lorem1{
+    padding: 2% 5%;
+}
+.lorem{
+    padding: 2% 5%;
+}
+#form-section{
+    position: absolute;
+    height: 80%;
+    width:35%;
+    margin: 35px;
+    left: 151px;
+    top: 950px;
+    padding: 10px 150px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.25)
+
+}
+.form-box{
+    height: 43px;
+    width: 30%;
+    justify-content: center;
+    border-radius: 5px;
+    margin-right: 5px;
+    
+
+}
+.us{
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+.form-row .input-box input{
+    width: 90%;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid;
+    margin-bottom: 25px;
+
+  
+
+}
+.form-row .textarea-section textarea{
+    width: 90%;
+    height: 150px;
+    border-radius: 5px;
+}
+.button-section button{
+    height: 30px;
+    width: 30%;
+    padding-right:0 15px;
+    margin: 30px 290px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgba(0, 77, 230, 0.76);
+
+
+}
